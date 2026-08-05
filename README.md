@@ -66,6 +66,6 @@ Lotus Internal email.
 [📥 Download my Resume](<./CV/CV English JUDITH ALICIA THEMME MONDRAGÓN.pdf>)
 
 ### 📫 Cómo contactarme / How to contact me
-* **[LinkedIn Profile]([https://www.linkedin.com/in/alicia-t-579315a3/])**
+* [LinkedIn Profile]([https://www.linkedin.com/in/alicia-t-579315a3/])
 * **Email**: **jaliciatm@yahoo.com / jaliciatm@gmail.com**
 * **Spain - Madrid**
