@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy [J.Alicia Themme Mondragón]
 
 Soy un profesional con formación en Sistemas, especializado en Arquitectura Cloud y Data Engineering. Me apasiona el diseño de infraestructura, la gestión de datos y la automatización, con más de 20 años de experiencia en soporte técnico avanzado, administración de sistemas y gestión de identidades. Especialista certificada en soluciones iManage (Cloud y On-Premises) e integración con entornos Microsoft 365. Experta en la resolución de incidencias críticas bajo metodologías ITIL, optimización de bases de datos mediante SQL y coordinación de equipos técnicos orientados al cumplimiento estricto de SLAs.
-**English**
+
 
 I am a professional with a background in IT, specializing in Cloud Architecture and Data Engineering. I am passionate about infrastructure design, data management, and automation, with over 20 years of experience in advanced technical support, systems administration, and identity management. I am a certified specialist in iManage solutions (Cloud and On-Premises) and integration with Microsoft 365 environments. I am an expert in resolving critical incidents using ITIL methodologies, optimizing databases using SQL, and coordinating technical teams focused on strict compliance with SLAs.
 
@@ -71,6 +71,7 @@ Lotus Internal email.
 
 •	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010)
 
+
 ### ACADEMIC BACKGROUND AND LANGUAGES
 •	**Bachelor's Degree in Systems Engineering** | Universidad Tecnológica del Perú (1998 – 2003)
 
@@ -79,10 +80,12 @@ Lotus Internal email.
 •	Languages: **Spanish (Native)** | **English** (TOEIC B2 Certification - Instituto San Román)
 
 
+
 ### 📄 Mi Currículum / Resume
 [📥 Descarga mi CV aquí](/CV/CV%20-%20JUDITH%20ALICIA%20THEMME%20MONDRAGÓN.pdf) 
 
 [📥 Download my Resume](/CV/CV%20English%20JUDITH%20ALICIA%20THEMME%20MONDRAGÓN.pdf)
+
 
 ### 📫 Cómo contactarme / How to contact me
 * [LinkedIn Profile](<https://www.linkedin.com/in/alicia-t-579315a3/>)
