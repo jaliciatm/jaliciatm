@@ -8,7 +8,7 @@ Soy un profesional con formación en Sistemas, especializado en Arquitectura Clo
 
 > 🇬🇧 *I am a professional with a background in IT, specializing in Cloud Architecture and Data Engineering> 🇬🇧 * with over 20 years of experience in advanced technical support, systems administration, and identity management. I am a certified specialist in iManage solutions (Cloud and On-Premises) and integration with Microsoft 365 environments. I am an expert in resolving critical incidents using ITIL methodologies, optimizing databases using SQL, and coordinating technical teams focused on strict compliance with SLAs.*
 
-
+---
 ### 🛠️ Tecnologías y Herramientas
 •	**Document Systems**: iManage Work (Cloud/On-Premises), iManage Drive, RAVN Indexer, Litera Compare, Threat Manager, and SPM.
 
@@ -20,13 +20,14 @@ Soy un profesional con formación en Sistemas, especializado en Arquitectura Clo
 
 •	**Systems and Networks**: Windows OS and Linux administration, Citrix environments, VPN connections (Forticlient, F5, GlobalConnect), remote control tools, and VMWare virtual machines.
 
-
+---
 ### 💼 Experiencia Destacada (sólo lo más relevante de los últimos años) Professional experience (only some and the most relevant details):
 * **Senior Support Systems Engineer** | Lexsoft Systems | Feb 2016 – Jan 2026
 • Advanced Platform Management: Provided first and second-level support for the iManage Work document management system (On-Premises and Cloud), resolving complex incidents via Halo, SpiceWorks, and official iManage support.
 •	Database Maintenance: Executed advanced SQL queries for the iManage DMS database to ensure data integrity, updates, and optimization.
 •	Integration and Connectivity: Implemented and supported integrations between iManage Work and Microsoft 365, managing secure remote access via VPNs (Forticlient, F5, Citrix).
 •	Technical Training: Delivered specialized coaching to clients on the iManage suite (Desktop, Web, Cloud iManage, Drive, RAVN, IDOL), improving adoption and reducing recurring incidents.
+
 
 * **NSU Service Desk – Alarms Monitoring** -BT Spain- June 2013- May 2015
 Description. 
@@ -46,7 +47,7 @@ Fix final date of deployment and implementation plan.
 Set up the maintenance agreement with the corresponding Department.
 Lotus Internal email. 
 
-
+---
 ### 🛠️ Certificaciones / Certifications
 •	**Cloud Systems Architecture and Development & Data Engineering IFCD0078** | Instituto Tajamar – Comunidad de Madrid (January – October 2026)
 
@@ -74,7 +75,7 @@ Lotus Internal email.
 
 •	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010)
 
-
+---
 ### ACADEMIC BACKGROUND AND LANGUAGES
 •	**Bachelor's Degree in Systems Engineering** | Universidad Tecnológica del Perú (1998 – 2003)
 
@@ -83,13 +84,13 @@ Lotus Internal email.
 •	Languages: **Spanish (Native)** | **English** (TOEIC B2 Certification - Instituto San Román)
 
 
-
+---
 ### 📄 Mi Currículum / Resume
 [📥 Descarga mi CV aquí](/CV/CV%20-%20JUDITH%20ALICIA%20THEMME%20MONDRAGÓN.pdf) 
 
 [📥 Download my Resume](/CV/CV%20English%20JUDITH%20ALICIA%20THEMME%20MONDRAGÓN.pdf)
 
-
+---
 ### 📫 Cómo contactarme / How to contact me
 * [LinkedIn Profile](<https://www.linkedin.com/in/alicia-t-579315a3/>)
 * **Email**: **jaliciatm@yahoo.com / jaliciatm@gmail.com**
