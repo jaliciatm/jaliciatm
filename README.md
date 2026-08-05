@@ -6,7 +6,7 @@
 Soy un profesional con formación en Sistemas, especializado en Arquitectura Cloud y la gestión de datos, con más de 20 años de experiencia en soporte técnico avanzado, administración de sistemas y gestión de identidades. Especialista certificada en soluciones iManage (Cloud y On-Premises) e integración con entornos Microsoft 365. Experta en la resolución de incidencias críticas bajo metodologías ITIL, optimización de bases de datos mediante SQL y coordinación de equipos técnicos orientados al cumplimiento estricto de SLAs.
 
 
-> 🇬🇧 *I am a professional with a background in IT, specializing in Cloud Architecture and Data Engineering with over 20 years of experience in advanced technical support, systems administration, and identity management. I am a certified specialist in iManage solutions (Cloud and On-Premises) and integration with Microsoft 365 environments. I am an expert in resolving critical incidents using ITIL methodologies, optimizing databases using SQL, and coordinating technical teams focused on strict compliance with SLAs.> GB*
+> 🇬🇧 *I am a professional with a background in IT, specializing in Cloud Architecture and Data Engineering with over 20 years of experience in advanced technical support, systems administration, and identity management. I am a certified specialist in iManage solutions (Cloud and On-Premises) and integration with Microsoft 365 environments. I am an expert in resolving critical incidents using ITIL methodologies, optimizing databases using SQL, and coordinating technical teams focused on strict compliance with SLAs.*
 
 ---
 ### 🛠️ Tecnologías y Herramientas
