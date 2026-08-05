@@ -50,7 +50,7 @@ Lotus Internal email.
 ---
 ### 🛠️ Certificaciones / Certifications
 
-•	**Cloud Systems Architecture and Development & Data Engineering IFCD0078** | Instituto Tajamar – Comunidad de Madrid (January – October 2026)
+•	**Cloud Systems Architecture and Development & Data Engineering IFCD0078** | Instituto Tajamar – Comunidad de Madrid (January – October 2026) ![Bootcamp Cloud & Data](https://img.shields.io/badge/Bootcamp-Cloud%20&%20Data%20Engineering-005B5C?style=for-the-badge)
 
 •	**Microsoft Certified AZ-900 - Microsoft Azure Fundamentals** | Microsoft (March 2026) ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -76,16 +76,9 @@ Lotus Internal email.
 
 •	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010) ![ITIL V3](https://img.shields.io/badge/ITIL%20V3-Fundamentals-025F8C?style=for-the-badge)
 
-![Bootcamp Cloud & Data](https://img.shields.io/badge/Bootcamp-Cloud%20&%20Data%20Engineering-005B5C?style=for-the-badge)
-
-
-
-
-
-
 
 ---
-### ACADEMIC BACKGROUND AND LANGUAGES
+### 🎓🌐 ACADEMIC BACKGROUND AND LANGUAGES
 •	**Bachelor's Degree in Systems Engineering** | Universidad Tecnológica del Perú (1998 – 2003)
 
 •	**Professional Technical Diploma in Computing and Informatics** | Instituto Superior Tecnológico IDAT
