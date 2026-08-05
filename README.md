@@ -49,6 +49,7 @@ Lotus Internal email.
 
 ---
 ### 🛠️ Certificaciones / Certifications
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 •	**Cloud Systems Architecture and Development & Data Engineering IFCD0078** | Instituto Tajamar – Comunidad de Madrid (January – October 2026)
 
 •	**Microsoft Certified AZ-900 - Microsoft Azure Fundamentals** | Microsoft (March 2026)
