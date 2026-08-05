@@ -21,7 +21,7 @@ Soy un profesional con formación en Sistemas, especializado en Arquitectura Clo
 •	**Systems and Networks**: Windows OS and Linux administration, Citrix environments, VPN connections (Forticlient, F5, GlobalConnect), remote control tools, and VMWare virtual machines.
 
 ---
-### 💼 Experiencia Destacada (sólo lo más relevante de los últimos años) Professional experience (only some and the most relevant details):
+### 💼 Experiencia Destacada / Professional experience (only some and the most relevant details):
 * **Senior Support Systems Engineer** | Lexsoft Systems | Feb 2016 – Jan 2026
 • Advanced Platform Management: Provided first and second-level support for the iManage Work document management system (On-Premises and Cloud), resolving complex incidents via Halo, SpiceWorks, and official iManage support.
 •	Database Maintenance: Executed advanced SQL queries for the iManage DMS database to ensure data integrity, updates, and optimization.
