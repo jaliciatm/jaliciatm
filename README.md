@@ -68,13 +68,16 @@ Lotus Internal email.
 
 •	**iManage Work 10 Indexer Powered by RAVN Certified** | iManage (2020) ![iManage RAVN](https://img.shields.io/badge/iManage-Work%2010%20Indexer%20RAVN-333333?style=for-the-badge)
 
-•	**Querying Data with Transact-SQL (MOC-20761A)** | Comunidad de Madrid (2019)
+•	**Querying Data with Transact-SQL (MOC-20761A)** | Comunidad de Madrid (2019) ![Transact-SQL](https://img.shields.io/badge/Transact--SQL-MOC--20761A-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 •	**iManage Certified Systems Engineer** | iManage (2016) ![iManage Engineer](https://img.shields.io/badge/iManage-Certified%20Systems%20Engineer-333333?style=for-the-badge)
 
-•	**Certificate of Professionalism in Computer Security (IFCT0109)** | Comunidad de Madrid (2015)
+•	**Certificate of Professionalism in Computer Security (IFCT0109)** | Comunidad de Madrid (2015) ![Computer Security](https://img.shields.io/badge/Computer%20Security-IFCT0109-005B5C?style=for-the-badge)
 
-•	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010)
+•	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010) ![ITIL V3](https://img.shields.io/badge/ITIL%20V3-Fundamentals-025F8C?style=for-the-badge)
+
+![Bootcamp Cloud & Data](https://img.shields.io/badge/Bootcamp-Cloud%20&%20Data%20Engineering-005B5C?style=for-the-badge)
+
 
 
 
