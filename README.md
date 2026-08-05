@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [J.Alicia Themme Mondragón]
+# [J.Alicia Themme Mondragón] <img align="right" src="/CV/Alicia foto2.JPG" width="200" alt="Foto de perfil">
 
 Soy un profesional con formación en Sistemas, especializado en Arquitectura Cloud y Data Engineering. Me apasiona el diseño de infraestructura, la gestión de datos y la automatización, con más de 20 años de experiencia en soporte técnico avanzado, administración de sistemas y gestión de identidades. Especialista certificada en soluciones iManage (Cloud y On-Premises) e integración con entornos Microsoft 365. Experta en la resolución de incidencias críticas bajo metodologías ITIL, optimización de bases de datos mediante SQL y coordinación de equipos técnicos orientados al cumplimiento estricto de SLAs.
 
