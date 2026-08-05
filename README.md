@@ -1,5 +1,5 @@
 # <img align="right" src="/CV/Alicia foto2.JPG" width="200" alt="Foto de perfil">
-# J. Alicia Themme Mondragón
+# Judith Alicia Themme Mondragón
 ### ☁️ Cloud Architecture & Data Engineering | Especialista en Sistemas
 
 ---
@@ -75,7 +75,11 @@ Lotus Internal email.
 •	**Certificate of Professionalism in Computer Security (IFCT0109)** | Comunidad de Madrid (2015)
 
 •	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010)
-
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AB-900](https://img.shields.io/badge/AB--900-M365%20Copilot-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 
 ---
 ### ACADEMIC BACKGROUND AND LANGUAGES
