@@ -1,4 +1,6 @@
-# <img align="right" src="/CV/Alicia foto2.JPG" width="200" alt="Foto de perfil">
+ <img align="right" src="/CV/Alicia foto2.JPG" width="200" alt="Foto de perfil">
+
+
 # Judith Alicia Themme Mondragón
 ### ☁️ Cloud Architecture & Data Engineering | Especialista en Sistemas
 
