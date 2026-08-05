@@ -49,7 +49,7 @@ Lotus Internal email.
 
 ---
 ### 🛠️ Certificaciones / Certifications
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 •	**Cloud Systems Architecture and Development & Data Engineering IFCD0078** | Instituto Tajamar – Comunidad de Madrid (January – October 2026)
 
 •	**Microsoft Certified AZ-900 - Microsoft Azure Fundamentals** | Microsoft (March 2026)
@@ -76,6 +76,7 @@ Lotus Internal email.
 
 •	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010)
 
+
 ---
 ### ACADEMIC BACKGROUND AND LANGUAGES
 •	**Bachelor's Degree in Systems Engineering** | Universidad Tecnológica del Perú (1998 – 2003)
@@ -86,13 +87,14 @@ Lotus Internal email.
 
 
 ---
-### 📄 Mi Currículum / Resume
+## 📄 Mi Currículum / Resume
 [📥 Descarga mi CV aquí](/CV/CV%20-%20JUDITH%20ALICIA%20THEMME%20MONDRAGÓN.pdf) 
 
 [📥 Download my Resume](/CV/CV%20English%20JUDITH%20ALICIA%20THEMME%20MONDRAGÓN.pdf)
 
+
 ---
-### 📫 Cómo contactarme / How to contact me
+## 📫 Cómo contactarme / How to contact me
 * [LinkedIn Profile](<https://www.linkedin.com/in/alicia-t-579315a3/>)
 * **Email**: **jaliciatm@yahoo.com / jaliciatm@gmail.com**
 * **Spain - Madrid**
