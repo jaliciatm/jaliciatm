@@ -52,34 +52,34 @@ Lotus Internal email.
 
 •	**Cloud Systems Architecture and Development & Data Engineering IFCD0078** | Instituto Tajamar – Comunidad de Madrid (January – October 2026)
 
-•	**Microsoft Certified AZ-900 - Microsoft Azure Fundamentals** | Microsoft (March 2026)
+•	**Microsoft Certified AZ-900 - Microsoft Azure Fundamentals** | Microsoft (March 2026) ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-•	**Microsoft Certified SC-900 - Microsoft Security Fundamentals** | Microsoft (April 2026)
+•	**Microsoft Certified SC-900 - Microsoft Security Fundamentals** | Microsoft (April 2026) ![SC-900](https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-•	**Microsoft Certified AB-900 - Microsoft 365 Copilot & Agent Administration** | Microsoft (May 2026)
+•	**Microsoft Certified AB-900 - Microsoft 365 Copilot & Agent Administration** | Microsoft (May 2026) ![AB-900](https://img.shields.io/badge/AB--900-M365%20Copilot-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 
-•	**Microsoft Certified DP-900 - Microsoft certified: Microsoft Azure Data Fundamentals** |  Microsoft Julio (2026)
+•	**Microsoft Certified DP-900 - Microsoft certified: Microsoft Azure Data Fundamentals** |  Microsoft Julio (2026) ![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-•	**Microsoft Certified DP-700 - Microsoft certified: Fabric Data Engineer Associate** |  Microsoft Julio (2026)
+•	**Microsoft Certified DP-700 - Microsoft certified: Fabric Data Engineer Associate** |  Microsoft Julio (2026) ![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-•	**iManage Cloud Onboarding Technical Specialist** | iManage (2025)
+•	**iManage Cloud Onboarding Technical Specialist** | iManage (2025) ![iManage Cloud](https://img.shields.io/badge/iManage-Cloud%20Onboarding-333333?style=for-the-badge)
 
-•	**iManage Security Policy Manager 1.5 Certified** | iManage (2020)
+•	**iManage Security Policy Manager 1.5 Certified** | iManage (2020) ![iManage Security](https://img.shields.io/badge/iManage-Security%20Policy%20Manager-333333?style=for-the-badge)
 
-•	**iManage Work 10 Indexer Powered by RAVN Certified** | iManage (2020)
+•	**iManage Work 10 Indexer Powered by RAVN Certified** | iManage (2020) ![iManage RAVN](https://img.shields.io/badge/iManage-Work%2010%20Indexer%20RAVN-333333?style=for-the-badge)
 
 •	**Querying Data with Transact-SQL (MOC-20761A)** | Comunidad de Madrid (2019)
 
-•	**iManage Certified Systems Engineer** | iManage (2016)
+•	**iManage Certified Systems Engineer** | iManage (2016) ![iManage Engineer](https://img.shields.io/badge/iManage-Certified%20Systems%20Engineer-333333?style=for-the-badge)
 
 •	**Certificate of Professionalism in Computer Security (IFCT0109)** | Comunidad de Madrid (2015)
 
 •	**ITIL V3 Fundamentals** | EXIN Certification / Punto ES (2010)
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SC-900](https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AB-900](https://img.shields.io/badge/AB--900-M365%20Copilot-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+
+
+
+
+
 
 ---
 ### ACADEMIC BACKGROUND AND LANGUAGES
