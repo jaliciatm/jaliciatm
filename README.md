@@ -51,17 +51,17 @@ Lotus Internal email.
 
 •	**Cloud Systems Architecture and Development & Data Engineering IFCD0078** | Instituto Tajamar – Comunidad de Madrid (January – October 2026) ![Bootcamp Cloud & Data](https://img.shields.io/badge/Bootcamp-Cloud%20&%20Data%20Engineering-005B5C?style=for-the-badge)
 
-•	**Microsoft Certified AZ-900 - Microsoft Azure Fundamentals** | Microsoft (March 2026) ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+•   **Microsoft Certified DP-600 - Fabric Analytics Engineer Associate** | Microsoft (August 2026) ![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
+
+•	**Microsoft Certified DP-700 - Microsoft certified: Fabric Data Engineer Associate** |  Microsoft Julio (2026) ![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+•	**Microsoft Certified DP-900 - Microsoft certified: Microsoft Azure Data Fundamentals** |  Microsoft Julio (2026) ![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 •	**Microsoft Certified SC-900 - Microsoft Security Fundamentals** | Microsoft (April 2026) ![SC-900](https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 •	**Microsoft Certified AB-900 - Microsoft 365 Copilot & Agent Administration** | Microsoft (May 2026) ![AB-900](https://img.shields.io/badge/AB--900-M365%20Copilot-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 
-•	**Microsoft Certified DP-900 - Microsoft certified: Microsoft Azure Data Fundamentals** |  Microsoft Julio (2026) ![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-•	**Microsoft Certified DP-700 - Microsoft certified: Fabric Data Engineer Associate** |  Microsoft Julio (2026) ![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-•   **Microsoft Certified DP-600 - Fabric Analytics Engineer Associate** | Microsoft (August 2026) ![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
+•	**Microsoft Certified AZ-900 - Microsoft Azure Fundamentals** | Microsoft (March 2026) ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 •	**iManage Cloud Onboarding Technical Specialist** | iManage (2025) ![iManage Cloud](https://img.shields.io/badge/iManage-Cloud%20Onboarding-333333?style=for-the-badge)
 
