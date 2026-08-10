@@ -59,9 +59,9 @@ Lotus Internal email.
 
 •	**Microsoft Certified DP-900 - Microsoft certified: Microsoft Azure Data Fundamentals** |  Microsoft Julio (2026) ![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-•	**Microsoft Certified DP-700 - Microsoft certified: Fabric Data Engineer Associate** |  Microsoft Julio (2026) ![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&
+•	**Microsoft Certified DP-700 - Microsoft certified: Fabric Data Engineer Associate** |  Microsoft Julio (2026) ![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-•   **Microsoft Certified DP-600 - Fabric Analytics Engineer Associate** | Microsoft (August 2026) ![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)logoColor=white)
+•   **Microsoft Certified DP-600 - Fabric Analytics Engineer Associate** | Microsoft (August 2026) ![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
 
 •	**iManage Cloud Onboarding Technical Specialist** | iManage (2025) ![iManage Cloud](https://img.shields.io/badge/iManage-Cloud%20Onboarding-333333?style=for-the-badge)
 
